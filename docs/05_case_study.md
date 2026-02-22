@@ -45,8 +45,8 @@ The author of *First Light* discovered night sky photography during a camping tr
 
 > **This section is the most important part of Doc 05.**
 > For each chapter, identify the specific real experience that grounds it.
-> Your agent uses these as "Nordlicht moments" — the concrete specific example that
-> makes an abstract concept believable.
+> Your agent uses these as concrete, specific examples — the grounding detail that
+> makes an abstract teaching point believable.
 > If you cannot fill in a chapter's grounding evidence, that is a signal that you need
 > more real experience before writing that chapter — or need to clarify what you actually know.
 
@@ -97,7 +97,7 @@ In June 2021, the author drove an hour to a dark-sky location, set up perfectly 
 
 > **This section tracks claims that need fact-checking before the book is submitted.**
 > These are cases where the author's memory or notes may be approximate.
-> See also: Doc 16 (Volatile Facts Register) for external technical claims.
+> For Topic/Novel projects with many time-sensitive technical claims, consider creating a Volatile Facts Register (see Chapter 7). Not required for Short flavor.
 
 - [ ] Confirm exact model name of first DSLR (Canon T7i vs. T6i — check purchase records)
 - [ ] Verify Bortle rating of rural state park location (memory says 4; check Light Pollution Map)

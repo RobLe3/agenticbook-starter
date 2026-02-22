@@ -20,7 +20,7 @@ agenticbook-starter/
 │   ├── 01_book_concept.md   # What the book is and who it's for
 │   ├── 02_target_readers.md # Reader personas (Short flavor: 2 profiles)
 │   ├── 03_book_architecture.md  # Chapter outline + lab structure
-│   ├── 04_key_concepts.md   # Glossary (Short flavor: 18 terms)
+│   ├── 04_key_concepts.md   # Glossary (Short flavor: 20 terms)
 │   └── 05_case_study.md     # Author credentials + project evidence
 ├── blank/                   # Empty templates — copy and rename for your project
 │   ├── 00_index_blank.md
@@ -48,6 +48,7 @@ agenticbook-starter/
 1. Clone the repo
 2. Copy the files from `blank/` to a new `docs/` folder in your project
 3. Follow the labs in *Agentic Book Writing: The Smart Way* to fill them in
+   (Appendix E contains Lab E — a step-by-step setup sequence for this kit)
 
 ### Option C: Reference only
 Browse the docs while reading Chapters 3–8. Each doc maps to a specific chapter:

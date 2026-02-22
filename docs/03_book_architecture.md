@@ -72,7 +72,7 @@
 
 **Forward references:** Chapter 5 (choosing a dark-sky location)
 
-> **Agent note:** The Bortle scale (1–9, where 1 is darkest) is defined in Doc 04.
+> **Agent note:** The Bortle scale (1–9, where 1 is darkest) is defined in `04_key_concepts.md` (Doc 04).
 > Do not introduce it here without referencing the glossary definition.
 
 ---

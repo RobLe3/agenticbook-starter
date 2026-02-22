@@ -20,7 +20,7 @@
 
 ## Current Phase
 
-**Phase:** [1 (World Model) / 2 (Templates) / 3 (Writing) / 4 (Revision) / 5 (Production)]
+**Phase:** [1 (World Model Construction) / 2 (First Draft Generation) / 3 (Measurement & Verification) / 4 (Iterative Refinement) / 5 (Production & Delivery)]
 **Current work:** [What you're actively working on right now]
 **Last session:** [Date — what was completed]
 **Next session:** [The first thing to do when you return]

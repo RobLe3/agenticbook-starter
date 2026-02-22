@@ -12,6 +12,11 @@
 
 ## Quick Reference
 
+> **Note for agent:** This index is your session orientation document, not a generation source.
+> Read it to understand the project state and navigate to the relevant content docs —
+> do not embed the index in generation prompts in place of the content docs it points to.
+> The content docs (01–05) are what you embed; this index tells you which one to embed.
+
 > **Why this table exists:** Your index is the first file your agent reads every session.
 > The quick reference table tells the agent where to find any information without searching.
 > Keep it updated as you add documents.
@@ -37,7 +42,7 @@
 | 01 | `01_book_concept.md` | Book premise, positioning, unique value, target outcome | DRAFT |
 | 02 | `02_target_readers.md` | 2 reader profiles: Complete Beginner + Enthusiast Upgrader | DRAFT |
 | 03 | `03_book_architecture.md` | 7-chapter outline with lab exercises | DRAFT |
-| 04 | `04_key_concepts.md` | 18-term glossary: photography, astronomy, equipment terms | DRAFT |
+| 04 | `04_key_concepts.md` | 20-term glossary: photography, astronomy, equipment, planning terms | DRAFT |
 | 05 | `05_case_study.md` | Author background, project evidence, credentials for this topic | DRAFT |
 
 ---

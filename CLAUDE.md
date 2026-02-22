@@ -73,7 +73,8 @@ Before declaring a chapter complete, verify:
 2. Does every technical term get defined on first use? (Clarity)
 3. Does every "author experience" example trace to Doc 05? (Grounding)
 4. Is the chapter within 20% of its target word count? (Scope Discipline)
-5. Does the lab produce a specific, tangible artifact? (Actionability)
+5. Does the lab (as specified in Doc 03) produce a specific, tangible artifact? (Actionability)
+6. Apply the 15% calibration correction to any AI quality score — AI self-assessment inflates by ~15%. A raw score of 8.0 = 6.8 calibrated.
 
 ---
 
@@ -82,4 +83,5 @@ Before declaring a chapter complete, verify:
 Before ending any session:
 1. Save all open files
 2. Update `MEMORY.md`: add decisions made, update chapter word counts, update "Next session"
-3. Commit: `git add . && git commit -m "[brief description of what was done]"`
+3. Commit: `git add docs/ manuscript/ MEMORY.md && git commit -m "[brief description of what was done]"`
+   (Add only project files — never add .env files, credentials, or API keys)

@@ -63,7 +63,7 @@ what you learned. This should be usable nearly verbatim in the manuscript.]
 
 > [List any claims in your case study that you're uncertain about — memories that need
 > checking against records, statistics that need sourcing, dates that need confirmation.
-> These become entries in your Volatile Facts Register (if you create Doc 16).]
+> For Topic/Novel projects with many time-sensitive technical claims, consider creating a Volatile Facts Register (see Chapter 7). Not required for Short flavor.]
 
 - [ ] [Claim to verify]
 - [ ] [Claim to verify]
