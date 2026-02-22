@@ -1,6 +1,6 @@
 # First Light — World Model Index
 
-> **Example world model for *Agentic Book Writing for Dummies*.**
+> **Example world model for *Agentic Book Writing: The Smart Way*.**
 > This index demonstrates the navigation pattern from Chapter 3.
 > Inline comments (like this one) explain why each element is written this way.
 

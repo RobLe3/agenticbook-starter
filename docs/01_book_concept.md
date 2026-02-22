@@ -1,6 +1,6 @@
 # Doc 01: Book Concept
 
-> **Example world model doc for *Agentic Book Writing for Dummies* — Chapter 5.**
+> **Example world model doc for *Agentic Book Writing: The Smart Way* — Chapter 5.**
 > This document answers: What is this book? Who is it for? Why does it need to exist?
 > Your agent embeds this in every chapter-generation prompt to anchor the work.
 

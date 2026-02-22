@@ -1,6 +1,6 @@
 # agenticbook-starter
 
-**A complete example world model for *Agentic Book Writing for Dummies*.**
+**A complete example world model for *Agentic Book Writing: The Smart Way*.**
 
 This repository contains a fully filled-in Short-flavor world model for a fictional book project: *First Light: A Beginner's Guide to Night Sky Photography*. Every document demonstrates a real-world-model pattern from the methodology — with inline comments explaining *why* each field is written the way it is.
 
@@ -47,7 +47,7 @@ agenticbook-starter/
 ### Option B: Start from blank templates (most flexible)
 1. Clone the repo
 2. Copy the files from `blank/` to a new `docs/` folder in your project
-3. Follow the labs in *Agentic Book Writing for Dummies* to fill them in
+3. Follow the labs in *Agentic Book Writing: The Smart Way* to fill them in
 
 ### Option C: Reference only
 Browse the docs while reading Chapters 3–8. Each doc maps to a specific chapter:
@@ -79,10 +79,10 @@ This fictional book was chosen as the example because:
 
 ## Important: This is not the production world model
 
-The world model for *Agentic Book Writing for Dummies* itself lives in a separate private repository. This starter repo contains only fictional example content and blank templates. No production content is shared between these two repositories.
+The world model for *Agentic Book Writing: The Smart Way* itself lives in a separate private repository. This starter repo contains only fictional example content and blank templates. No production content is shared between these two repositories.
 
 ---
 
 ## Book
 
-*Agentic Book Writing for Dummies* by Roble Mumin — [roblemumin.com](https://roblemumin.com)
+*Agentic Book Writing: The Smart Way* by Roble Mumin — [roblemumin.com](https://roblemumin.com)

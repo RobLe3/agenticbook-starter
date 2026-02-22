@@ -1,6 +1,6 @@
 # Doc 05: Author Case Study
 
-> **Example world model doc for *Agentic Book Writing for Dummies* — Chapter 5.**
+> **Example world model doc for *Agentic Book Writing: The Smart Way* — Chapter 5.**
 > The case study document answers: What gives the author the right to write this book?
 > It provides the concrete evidence — specific projects, measurable outcomes, real experience —
 > that your agent draws on for grounding examples throughout the manuscript.

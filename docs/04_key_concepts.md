@@ -1,6 +1,6 @@
 # Doc 04: Key Concepts (Glossary)
 
-> **Example world model doc for *Agentic Book Writing for Dummies* — Chapter 5.**
+> **Example world model doc for *Agentic Book Writing: The Smart Way* — Chapter 5.**
 > For Short flavor: 15–25 terms is the right scope. More creates lookup overhead;
 > fewer leaves your agent guessing at definitions.
 > Include EVERY term your agent might use without a clear shared definition.

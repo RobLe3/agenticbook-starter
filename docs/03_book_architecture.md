@@ -1,6 +1,6 @@
 # Doc 03: Book Architecture
 
-> **Example world model doc for *Agentic Book Writing for Dummies* — Chapter 5.**
+> **Example world model doc for *Agentic Book Writing: The Smart Way* — Chapter 5.**
 > This is your chapter outline. For Short flavor: 6–10 chapters is typical.
 > Each chapter entry must specify INTENT (what the reader believes after reading)
 > and OUTPUT (what the reader can produce after the lab).

@@ -1,6 +1,6 @@
 # Doc 02: Target Readers
 
-> **Example world model doc for *Agentic Book Writing for Dummies* — Chapter 5.**
+> **Example world model doc for *Agentic Book Writing: The Smart Way* — Chapter 5.**
 > For Short flavor, 2–3 reader profiles is enough. More creates contradictory constraints
 > that make the manuscript harder to write.
 > Your agent uses these profiles when making voice, vocabulary, and example decisions.
