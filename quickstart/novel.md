@@ -112,3 +112,47 @@ TYPICAL SESSION COUNT:
   Build + package: 5-7 sessions
   Total: 65-95 sessions
 ```
+
+---
+
+## Worked Example: The Glass Meridian
+
+The companion repository includes a complete Novel-flavor world model for *The Glass Meridian* — a literary mystery / historical thriller with a dual timeline (2024 Azores/London and 1872 Gold Coast/Atlantic/Liverpool), 82,000–88,000 words, 28 chapters plus prologue and epilogue.
+
+**What it demonstrates:**
+- Full 17-document world model (Docs 00–16) across Content, Standards, and Verification tiers
+- Dual-timeline narrative architecture (30-entry chapter map with chapter intent per entry)
+- Character registry with psychological profiles (wound/desire/fear/ghost) for 8 characters
+- Location register with sensory anchors and 2024 vs 1872 contrast per location
+- 16-dimension quality scoring rubric with weighted formula and ×0.85 calibration
+- 14-layer verification protocol across three sweeps
+- 4-archetype reader simulation framework for fiction
+
+**Location in repo:** `novel-example/` (worked example) and `novel-blank/` (blank templates)
+
+**Key contrast with Topic-flavor:** Adds a character registry (Doc 02), location register (Doc 03), psychology guide (Doc 06), story quality assessment (Doc 11), domain authenticity protocol (Doc 12), and four additional verification documents (Docs 13–16 vs Topic's Docs 07–09).
+
+**Why this topic:** *The Glass Meridian* is fiction with two distinct research domains (marine archaeology and colonial West African history). It is deliberately unrelated to AI or writing methodology — demonstrating that the Novel-flavor world model works for any genre and subject matter.
+
+```
+novel-example/
+├── 00_index.md              # Navigation + session checklist + flavor contrast table
+├── 01_premise.md            # Logline, comparable titles, scope guardrails
+├── 02_character_registry.md # 8 characters with full psychological profiles
+├── 03_location_register.md  # 10 locations with sensory anchors and dual-era contrast
+├── 04_glossary.md           # 30 terms across 3 categories (marine / colonial / craft)
+├── 05_narrative_architecture.md  # 30-entry chapter map + 5-act arc + session plan
+├── 06_psychology_guide.md   # Wound/desire/fear/ghost for 4 main characters
+├── 07_research_foundation.md # Claims by verification risk + known vs. needs-verify
+├── 08_quality_scoring.md    # 16 dimensions + weighted formula + Quick-Score card
+├── 09_style_guide.md        # Voice differentiation + FID + tense + jargon policy
+├── 10_canon_rules.md        # Three-tier hierarchy + binary conflict resolution
+├── 11_story_quality.md      # 3-pillar framework (Plausibility / Human Impact / Momentum)
+├── 12_domain_authenticity.md # Fixed procedures + "what does NOT happen" lists
+├── 13_cfr.md                # CF-001–CF-026 (character facts) + HC-001–HC-030 (history)
+├── 14_verification_protocol.md # All 14 layers in 3 sweeps with gate conditions
+├── 15_vfr.md                # 20 entries across 4 categories with recheck triggers
+└── 16_reader_simulation.md  # 4 fiction archetypes + 3/4 gate + pillar-to-archetype map
+```
+
+Blank templates with `[PLACEHOLDER_NAME]` format are in `novel-blank/` — same structure, all Glass Meridian content replaced, all `> Note for agent:` methodology annotations preserved.

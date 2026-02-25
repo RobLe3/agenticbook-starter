@@ -2,7 +2,7 @@
 
 **A reader-facing bootstrap companion for *Agentic Book Writing: The Smart Way*.**
 
-This repository contains filled example world models for two project flavors — *First Light: A Beginner's Guide to Night Sky Photography* (Short flavor) and *Sourdough at Home: A Practical Guide to Wild Yeast Baking* (Topic flavor) — plus blank templates for both, the static prompt library, flavor quick-start cards, and versioned tool guides from the book's appendices.
+This repository contains filled example world models for three project flavors — *First Light: A Beginner's Guide to Night Sky Photography* (Short flavor), *Sourdough at Home: A Practical Guide to Wild Yeast Baking* (Topic flavor), and *The Glass Meridian* (Novel flavor) — plus blank templates for all three, the static prompt library, flavor quick-start cards, and versioned tool guides from the book's appendices.
 
 Use this as:
 - A **reference** while reading the book (Option C — no clone required)
@@ -71,6 +71,42 @@ agenticbook-starter/
 │   ├── 07_canon_rules_blank.md
 │   ├── 08_verification_blank.md
 │   └── 09_vfr_blank.md
+├── novel-example/             # Example world model (Novel-flavor, The Glass Meridian)
+│   ├── 00_index.md            # Navigation + session checklist + flavor contrast table
+│   ├── 01_premise.md          # Logline, comparable titles, scope guardrails
+│   ├── 02_character_registry.md # 8 characters with full psychological profiles
+│   ├── 03_location_register.md  # 10 locations with sensory anchors and dual-era contrast
+│   ├── 04_glossary.md         # 30 terms (marine archaeology / colonial history / craft)
+│   ├── 05_narrative_architecture.md # 30-entry chapter map + 5-act arc + session plan
+│   ├── 06_psychology_guide.md # Wound/desire/fear/ghost for 4 main characters
+│   ├── 07_research_foundation.md # Claims by verification risk + needs-verify list
+│   ├── 08_quality_scoring.md  # 16 dimensions + weighted formula + Quick-Score card
+│   ├── 09_style_guide.md      # Voice differentiation + FID + tense + jargon policy
+│   ├── 10_canon_rules.md      # Three-tier hierarchy + binary conflict resolution
+│   ├── 11_story_quality.md    # 3-pillar framework (Plausibility / Human Impact / Momentum)
+│   ├── 12_domain_authenticity.md # Fixed procedures + "what does NOT happen" lists
+│   ├── 13_cfr.md              # CF-001–026 (character) + HC-001–030 (historical claims)
+│   ├── 14_verification_protocol.md # All 14 layers in 3 sweeps with gate conditions
+│   ├── 15_vfr.md              # 20 entries across 4 categories with recheck triggers
+│   └── 16_reader_simulation.md # 4 fiction archetypes + 3/4 gate + pillar mapping
+├── novel-blank/               # Empty templates matching all novel-example/ files
+│   ├── 00_index_blank.md
+│   ├── 01_premise_blank.md
+│   ├── 02_character_registry_blank.md
+│   ├── 03_location_register_blank.md
+│   ├── 04_glossary_blank.md
+│   ├── 05_narrative_architecture_blank.md
+│   ├── 06_psychology_guide_blank.md
+│   ├── 07_research_foundation_blank.md
+│   ├── 08_quality_scoring_blank.md
+│   ├── 09_style_guide_blank.md
+│   ├── 10_canon_rules_blank.md
+│   ├── 11_story_quality_blank.md
+│   ├── 12_domain_authenticity_blank.md
+│   ├── 13_cfr_blank.md
+│   ├── 14_verification_protocol_blank.md
+│   ├── 15_vfr_blank.md
+│   └── 16_reader_simulation_blank.md
 ├── quickstart/                # Flavor quick-start cards (Appendix C)
 │   ├── README.md
 │   ├── short.md               # Short flavor: 20-40K words, 15-20 sessions
@@ -126,18 +162,18 @@ Browse the repository on GitHub while reading Chapters 3–15 of the book. When 
 
 ## Chapter-to-Folder Mapping
 
-| Chapters | Short-flavor | Topic-flavor |
-|----------|-------------|--------------|
-| Ch 3–5 (World Model, Content Docs) | `docs/` + `blank/` | `topic-example/00–05` + `topic-blank/` |
-| Ch 6 (Standards Documents) | *(not applicable — Short uses lite)* | `topic-example/06_style_guide.md` |
-| Ch 7 (Verification Documents) | `docs/06_verification_lite.md` + `docs/07_vfr_lite.md` | `topic-example/07_canon_rules.md` + `topic-example/08_verification_protocol.md` + `topic-example/09_vfr.md` |
-| Ch 8 (Flavor Matrix) | `quickstart/short.md` | `quickstart/topic.md` |
-| Ch 9–10 (Generation, Measurement) | `prompts/stage-2-writing.md` + `prompts/stage-4-review.md` | *(same)* |
-| Ch 11–12 (Revision, Reader Validation) | `prompts/stage-3-refinement.md` + `prompts/stage-4-review.md` | *(same)* |
-| Ch 13–15 (Build, Publisher Package, Done) | `tools/` + `prompts/stage-6-supplemental.md` | *(same)* |
-| Appendix C | `quickstart/` | `quickstart/` |
-| Appendix D | `prompts/` | `prompts/` |
-| Appendix B | `tools/` | `tools/` |
+| Chapters | Short-flavor | Topic-flavor | Novel-flavor |
+|----------|-------------|--------------|--------------|
+| Ch 3–5 (World Model, Content Docs) | `docs/` + `blank/` | `topic-example/00–05` + `topic-blank/` | `novel-example/00–07` + `novel-blank/` |
+| Ch 6 (Standards Documents) | *(not applicable — Short uses lite)* | `topic-example/06_style_guide.md` | `novel-example/08–12` (quality scoring, style, canon, story quality, domain) |
+| Ch 7 (Verification Documents) | `docs/06_verification_lite.md` + `docs/07_vfr_lite.md` | `topic-example/07_canon_rules.md` + `topic-example/08_verification_protocol.md` + `topic-example/09_vfr.md` | `novel-example/13–16` (CFR, 14-layer protocol, VFR, reader simulation) |
+| Ch 8 (Flavor Matrix) | `quickstart/short.md` | `quickstart/topic.md` | `quickstart/novel.md` |
+| Ch 9–10 (Generation, Measurement) | `prompts/stage-2-writing.md` + `prompts/stage-4-review.md` | *(same)* | *(same)* |
+| Ch 11–12 (Revision, Reader Validation) | `prompts/stage-3-refinement.md` + `prompts/stage-4-review.md` | *(same)* | *(same)* |
+| Ch 13–15 (Build, Publisher Package, Done) | `tools/` + `prompts/stage-6-supplemental.md` | *(same)* | *(same)* |
+| Appendix C | `quickstart/` | `quickstart/` | `quickstart/` |
+| Appendix D | `prompts/` | `prompts/` | `prompts/` |
+| Appendix B | `tools/` | `tools/` | `tools/` |
 
 ---
 
@@ -186,11 +222,19 @@ Move to the full methodology when any of these are true:
 **Why this topic:** Sourdough baking has rich technical vocabulary, verifiable scientific claims, and multiple reader types — demonstrating the full standards + verification tier that Topic-flavor requires.
 **Key contrast with Short-flavor:** Adds a full style guide (Doc 06), a dedicated fact registry (CFR, Doc 07), 8-layer verification protocol (Doc 08), and a comprehensive Volatile Facts Register (Doc 09, 19 claims).
 
+### Novel-Flavor Example
+**Title:** *The Glass Meridian*
+**Flavor:** Novel (82,000–88,000 words) · 17 docs (00–16) · 14-layer verification
+**Genre:** Literary mystery / historical thriller (dual timeline)
+**Location:** `novel-example/` + `novel-blank/`
+**Why this topic:** *The Glass Meridian* is a dual-timeline fiction project spanning marine archaeology (2024 Azores/London) and colonial West African history (1872 Gold Coast to Liverpool). Two distinct research domains, eight characters with full psychological profiles, and a 30-entry chapter map with chapter intents — demonstrating the full Novel-flavor world model at working depth.
+**Key contrast with Topic-flavor:** Adds a character registry (Doc 02) and location register (Doc 03) in the Content tier; adds a psychology guide (Doc 06) alongside the research foundation (Doc 07); adds a story quality assessment (Doc 11) and domain authenticity protocol (Doc 12) in the Standards tier; expands verification to a dedicated CFR (Doc 13), 14-layer protocol (Doc 14), VFR (Doc 15), and reader simulation framework (Doc 16).
+
 ---
 
 ## Version
 
-This repository is described in *Agentic Book Writing: The Smart Way* at tag **v0.7.0** (February 2026). If the repository structure has changed since this tag, see the tagged release or the archived ZIP at the book's download page.
+This repository is described in *Agentic Book Writing: The Smart Way* at tag **v0.8.0** (February 2026). If the repository structure has changed since this tag, see the tagged release or the archived ZIP at the book's download page.
 
 ---
 
