@@ -2,24 +2,19 @@
 
 > **Example world model for *Agentic Book Writing: The Smart Way*.**
 > This index demonstrates the navigation pattern from Chapter 3.
-> Inline comments (like this one) explain why each element is written this way.
 
-**Project:** *First Light: A Beginner's Guide to Night Sky Photography*
-**Flavor:** Short (22,000–28,000 words)
+**Project:** *First Light: A Beginner's Guide to Night Sky Photography*  
+**Flavor:** Short (22,000–28,000 words)  
 **Last Updated:** [Date]
+
+> **Boundary note:** This starter repo is a reader-facing bootstrap companion.
+> It is not the production world model and is not canonical for manuscript claims.
 
 ---
 
 ## Quick Reference
 
-> **Note for agent:** This index is your session orientation document, not a generation source.
-> Read it to understand the project state and navigate to the relevant content docs —
-> do not embed the index in generation prompts in place of the content docs it points to.
-> The content docs (01–05) are what you embed; this index tells you which one to embed.
-
-> **Why this table exists:** Your index is the first file your agent reads every session.
-> The quick reference table tells the agent where to find any information without searching.
-> Keep it updated as you add documents.
+> **Note for agent:** This index is a session orientation file, not generation source text.
 
 | Need to know... | Consult |
 |-----------------|---------|
@@ -28,32 +23,38 @@
 | Chapter structure and lab design | `03_book_architecture.md` |
 | Technical terms and definitions | `04_key_concepts.md` |
 | Author credentials and project evidence | `05_case_study.md` |
+| Minimal verification checks | `06_verification_lite.md` (optional) |
+| Volatile claims tracking | `07_vfr_lite.md` (optional) |
+| Final pre-publication gate | `08_prepublication_checklist.md` (optional) |
 
 ---
 
-## Document Summary
+## Document Summary (Core)
 
-> **For Short flavor:** 4–6 documents is the right scope. More than 8 creates overhead
-> that outweighs the benefit. Every document you add should answer a question your agent
-> would otherwise have to invent an answer to.
+> **Short flavor target:** keep core docs at 4–6.
 
 | # | Document | Purpose | Status |
 |---|----------|---------|--------|
-| 01 | `01_book_concept.md` | Book premise, positioning, unique value, target outcome | DRAFT |
-| 02 | `02_target_readers.md` | 2 reader profiles: Complete Beginner + Enthusiast Upgrader | DRAFT |
+| 01 | `01_book_concept.md` | Book premise, positioning, target outcome | DRAFT |
+| 02 | `02_target_readers.md` | 2 reader profiles: Beginner + Enthusiast | DRAFT |
 | 03 | `03_book_architecture.md` | 7-chapter outline with lab exercises | DRAFT |
-| 04 | `04_key_concepts.md` | 20-term glossary: photography, astronomy, equipment, planning terms | DRAFT |
-| 05 | `05_case_study.md` | Author background, project evidence, credentials for this topic | DRAFT |
+| 04 | `04_key_concepts.md` | 20-term glossary | DRAFT |
+| 05 | `05_case_study.md` | Author background and topic evidence | DRAFT |
+
+## Optional Operations Overlays
+
+| # | Document | Purpose | Use When |
+|---|----------|---------|----------|
+| 06 | `06_verification_lite.md` | CFR/basic consistency/cross-ref checks | Contradictions appear across chapters |
+| 07 | `07_vfr_lite.md` | Track time-sensitive technical claims | Tool versions/prices/specs are cited |
+| 08 | `08_prepublication_checklist.md` | Lightweight release gate | Before publishing/exporting |
 
 ---
 
 ## Project Status
 
-> **Update this section at the end of every working session.** It tells you and your agent
-> exactly where you are without re-reading the whole world model.
-
-**Current Phase:** Phase 1 — World Model Construction
-**Active Work:** [What you're currently working on]
+**Current Phase:** Phase 1 — World Model Construction  
+**Active Work:** [What you're currently working on]  
 **Next Action:** [The one thing to do in the next session]
 
 **Word count progress:**
@@ -63,16 +64,24 @@
 
 ---
 
-## Conventions
+## Graduation Triggers (Move to Full Methodology)
 
-> **Add to this section as you make decisions.** These are the rules your agent follows
-> when writing your manuscript. Stable conventions go here; session-specific notes go in MEMORY.md.
-
-- **Voice:** Second person ("you"), conversational, encouraging
-- **Jargon policy:** Define every technical term on first use; assume no prior photography knowledge
-- **Examples:** Draw from the case study (Doc 05) for all concrete examples; do not invent new scenarios
-- **Difficulty:** GREEN (beginner) throughout; no RED-level content
+Graduate from starter when any trigger is true:
+- Target exceeds ~40,000 words
+- You are beyond Chapter 5-8 and drift is visible
+- Re-stating context each session is becoming expensive
+- Contradictions recur after simple fixes
+- You need deeper verification or broader production outputs
 
 ---
 
-*Index Version: 1.0 | Flavor: Short | Docs: 5*
+## Conventions
+
+- **Voice:** Second person ("you"), conversational, encouraging
+- **Jargon policy:** Define technical terms on first use
+- **Examples:** Draw from Doc 05 for concrete examples
+- **Difficulty:** GREEN-first; avoid unnecessary complexity
+
+---
+
+*Index Version: 1.1 | Flavor: Short | Core Docs: 5 | Optional Ops Docs: 3*

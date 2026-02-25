@@ -4,6 +4,9 @@
 **Flavor:** [Short / Topic / Novel]
 **Last Updated:** [Date]
 
+> **Boundary note:** This starter repository is a bootstrap companion,
+> not the production methodology canon.
+
 ---
 
 ## Quick Reference
@@ -15,39 +18,60 @@
 | Chapter structure and lab design | `03_book_architecture.md` |
 | Technical terms and definitions | `04_key_concepts.md` |
 | Author credentials and project evidence | `05_case_study.md` |
+| Minimal verification checks | `06_verification_lite.md` (optional) |
+| Volatile claims tracking | `07_vfr_lite.md` (optional) |
+| Final pre-publication gate | `08_prepublication_checklist.md` (optional) |
 
 ---
 
-## Document Summary
+## Document Summary (Core)
 
 | # | Document | Purpose | Status |
 |---|----------|---------|--------|
 | 01 | `01_book_concept.md` | Book premise, positioning, unique value | DRAFT |
-| 02 | `02_target_readers.md` | Reader profiles ([N] profiles for [flavor]) | DRAFT |
+| 02 | `02_target_readers.md` | Reader profiles | DRAFT |
 | 03 | `03_book_architecture.md` | Chapter outline with lab exercises | DRAFT |
-| 04 | `04_key_concepts.md` | [N]-term glossary | DRAFT |
-| 05 | `05_case_study.md` | Author background and project evidence | DRAFT |
+| 04 | `04_key_concepts.md` | Glossary | DRAFT |
+| 05 | `05_case_study.md` | Author background and evidence | DRAFT |
+
+## Optional Operations Overlays
+
+| # | Document | Purpose | Status |
+|---|----------|---------|--------|
+| 06 | `06_verification_lite.md` | CFR/basic consistency/cross-ref checks | OPTIONAL |
+| 07 | `07_vfr_lite.md` | Volatile claims tracker | OPTIONAL |
+| 08 | `08_prepublication_checklist.md` | Final release gate | OPTIONAL |
 
 ---
 
 ## Project Status
 
-**Current Phase:** Phase 1 — World Model Construction
-**Active Work:** [What you're currently working on]
-**Next Action:** [The one thing to do in the next session]
+**Current Phase:** [Phase]
+**Active Work:** [What you are doing now]
+**Next Action:** [Next single action]
 
 **Word count progress:**
 - Target: [number] words
-- Drafted: 0 words
+- Drafted: [number]
+
+---
+
+## Graduation Triggers
+
+Move to full methodology when any are true:
+- Target > 40,000 words
+- Chapter count > 8 with recurring drift
+- Context restatement overhead is high
+- Verification-lite is no longer enough
 
 ---
 
 ## Conventions
 
-- **Voice:** [Second person / Third person / First person]
-- **Jargon policy:** [Your policy on technical terms]
-- **Examples:** [Where examples come from — case study, real data, invented scenarios]
+- **Voice:** [Second / Third / First person]
+- **Jargon policy:** [How terms are introduced]
+- **Examples:** [Where examples come from]
 
 ---
 
-*Index Version: 1.0 | Flavor: [Short/Topic/Novel] | Docs: 5*
+*Index Version: 1.1 | Flavor: [Short/Topic/Novel] | Core Docs: 5 | Optional Ops Docs: 3*
