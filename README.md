@@ -80,7 +80,7 @@ agenticbook-starter/
 
 1. Clone this repo alongside your book project:
    ```bash
-   git clone git@github.com:RobLe3/agenticbook-starter.git starter
+   git clone https://github.com/RobLe3/agenticbook-starter.git starter
    cd starter
    ```
 2. Open `CLAUDE.md` and replace `First Light` content with your own project.
