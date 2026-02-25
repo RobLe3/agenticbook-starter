@@ -2,7 +2,7 @@
 
 **A reader-facing bootstrap companion for *Agentic Book Writing: The Smart Way*.**
 
-This repository contains a filled Short-flavor example world model for a fictional project — *First Light: A Beginner's Guide to Night Sky Photography* — plus the static prompt library, flavor quick-start cards, and versioned tool guides from the book's appendices.
+This repository contains filled example world models for two project flavors — *First Light: A Beginner's Guide to Night Sky Photography* (Short flavor) and *Sourdough at Home: A Practical Guide to Wild Yeast Baking* (Topic flavor) — plus blank templates for both, the static prompt library, flavor quick-start cards, and versioned tool guides from the book's appendices.
 
 Use this as:
 - A **reference** while reading the book (Option C — no clone required)
@@ -49,6 +49,28 @@ agenticbook-starter/
 │   ├── 06_verification_lite_blank.md        [optional]
 │   ├── 07_vfr_lite_blank.md                 [optional]
 │   └── 08_prepublication_checklist_blank.md [optional]
+├── topic-example/             # Example world model (Topic-flavor, Sourdough at Home)
+│   ├── 00_index.md            # Navigation + flavor contrast vs Short-flavor
+│   ├── 01_book_concept.md     # Problem statement, unique value, 4+ scope guardrails
+│   ├── 02_target_readers.md   # Four reader personas + jargon tolerance
+│   ├── 03_book_architecture.md # 14-chapter outline + session plan
+│   ├── 04_key_concepts.md     # 28-term glossary (Topic-flavor depth)
+│   ├── 05_case_study.md       # Author credentials + 847-bake documented evidence
+│   ├── 06_style_guide.md      # Full standards doc: voice, jargon, structure rules
+│   ├── 07_canon_rules.md      # CFR: 46 technical claims across 7 categories
+│   ├── 08_verification_protocol.md # 8-layer QVP (vs Short's 3 layers)
+│   └── 09_vfr.md              # Volatile Facts Register: 19 claims with recheck triggers
+├── topic-blank/               # Empty templates matching all topic-example/ files
+│   ├── 00_index_blank.md
+│   ├── 01_concept_blank.md
+│   ├── 02_readers_blank.md
+│   ├── 03_architecture_blank.md
+│   ├── 04_glossary_blank.md
+│   ├── 05_casestudy_blank.md
+│   ├── 06_style_guide_blank.md
+│   ├── 07_canon_rules_blank.md
+│   ├── 08_verification_blank.md
+│   └── 09_vfr_blank.md
 ├── quickstart/                # Flavor quick-start cards (Appendix C)
 │   ├── README.md
 │   ├── short.md               # Short flavor: 20-40K words, 15-20 sessions
@@ -104,17 +126,18 @@ Browse the repository on GitHub while reading Chapters 3–15 of the book. When 
 
 ## Chapter-to-Folder Mapping
 
-| Chapters | What to use |
-|----------|-------------|
-| Ch 3–5 (World Model Concept, Workshop Setup, Content Docs) | `docs/` + `blank/` |
-| Ch 6–7 (Standards, Verification) | `docs/06_verification_lite.md` + `docs/07_vfr_lite.md` |
-| Ch 8 (Flavor Matrix) | `quickstart/` (compare all three flavor cards) |
-| Ch 9–10 (Generation, Measurement) | `prompts/stage-2-writing.md` + `prompts/stage-4-review.md` |
-| Ch 11–12 (Revision, Reader Validation) | `prompts/stage-3-refinement.md` + `prompts/stage-4-review.md` |
-| Ch 13–15 (Build, Publisher Package, Done) | `tools/` + `prompts/stage-6-supplemental.md` |
-| Appendix C | `quickstart/` |
-| Appendix D | `prompts/` |
-| Appendix B | `tools/` |
+| Chapters | Short-flavor | Topic-flavor |
+|----------|-------------|--------------|
+| Ch 3–5 (World Model, Content Docs) | `docs/` + `blank/` | `topic-example/00–05` + `topic-blank/` |
+| Ch 6 (Standards Documents) | *(not applicable — Short uses lite)* | `topic-example/06_style_guide.md` |
+| Ch 7 (Verification Documents) | `docs/06_verification_lite.md` + `docs/07_vfr_lite.md` | `topic-example/07_canon_rules.md` + `topic-example/08_verification_protocol.md` + `topic-example/09_vfr.md` |
+| Ch 8 (Flavor Matrix) | `quickstart/short.md` | `quickstart/topic.md` |
+| Ch 9–10 (Generation, Measurement) | `prompts/stage-2-writing.md` + `prompts/stage-4-review.md` | *(same)* |
+| Ch 11–12 (Revision, Reader Validation) | `prompts/stage-3-refinement.md` + `prompts/stage-4-review.md` | *(same)* |
+| Ch 13–15 (Build, Publisher Package, Done) | `tools/` + `prompts/stage-6-supplemental.md` | *(same)* |
+| Appendix C | `quickstart/` | `quickstart/` |
+| Appendix D | `prompts/` | `prompts/` |
+| Appendix B | `tools/` | `tools/` |
 
 ---
 
@@ -146,18 +169,28 @@ Move to the full methodology when any of these are true:
 
 ---
 
-## The Example Project
+## The Example Projects
 
+### Short-Flavor Example
 **Title:** *First Light: A Beginner's Guide to Night Sky Photography*
-**Flavor:** Short (22,000–28,000 words)
+**Flavor:** Short (22,000–28,000 words) · 9 docs (00–08) · 3-layer verification
 **Genre:** Non-fiction how-to / beginner guide
+**Location:** `docs/` + `blank/`
 **Why this topic:** Night sky photography is unrelated to AI or writing — demonstrating that the methodology works for any subject matter.
+
+### Topic-Flavor Example
+**Title:** *Sourdough at Home: A Practical Guide to Wild Yeast Baking*
+**Flavor:** Topic (55,000–65,000 words) · 10 docs (00–09) · 8-layer verification
+**Genre:** Non-fiction how-to / practical guide
+**Location:** `topic-example/` + `topic-blank/`
+**Why this topic:** Sourdough baking has rich technical vocabulary, verifiable scientific claims, and multiple reader types — demonstrating the full standards + verification tier that Topic-flavor requires.
+**Key contrast with Short-flavor:** Adds a full style guide (Doc 06), a dedicated fact registry (CFR, Doc 07), 8-layer verification protocol (Doc 08), and a comprehensive Volatile Facts Register (Doc 09, 19 claims).
 
 ---
 
 ## Version
 
-This repository is described in *Agentic Book Writing: The Smart Way* at tag **v0.6.0** (February 2026). If the repository structure has changed since this tag, see the tagged release or the archived ZIP at the book's download page.
+This repository is described in *Agentic Book Writing: The Smart Way* at tag **v0.7.0** (February 2026). If the repository structure has changed since this tag, see the tagged release or the archived ZIP at the book's download page.
 
 ---
 

@@ -98,3 +98,31 @@ TYPICAL SESSION COUNT:
   Build + package: 3-4 sessions
   Total: 30-50 sessions
 ```
+
+---
+
+## Worked Example (Topic-Flavor)
+
+The companion repository includes a complete Topic-flavor world model example:
+
+**`topic-example/`** — *Sourdough at Home: A Practical Guide to Wild Yeast Baking*
+
+| File | What it demonstrates |
+|------|---------------------|
+| `00_index.md` | Navigation + flavor comparison vs Short-flavor |
+| `01–05` | Full Content tier (concept, readers, architecture, glossary, case study) |
+| `06_style_guide.md` | Standards tier — voice, jargon policy, callout boxes |
+| `07_canon_rules.md` | CFR — 46 technical claims across 7 categories |
+| `08_verification_protocol.md` | 8-layer verification protocol |
+| `09_vfr.md` | Volatile Facts Register — 19 claims with recheck triggers |
+
+Compare this to the Short-flavor example (`docs/`) to see what Topic-flavor adds:
+- Doc 06 (style guide) — new requirement at Topic-flavor
+- Doc 07 (CFR) — dedicated fact registry, not just lite consistency checks
+- Doc 08 (full 8-layer verification) vs Short's 3-layer lite
+- Doc 09 (full VFR) vs Short's 6-item VFR-lite
+
+**Blank templates:** `topic-blank/` — matching templates with `[PLACEHOLDER_NAME]` format.
+
+If you completed Lab 6–7 (Chapters 6–7), compare your standards and verification docs to
+`topic-example/06–09` to calibrate depth.
