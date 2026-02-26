@@ -8,6 +8,9 @@
 > **World model equivalent:** In a world model project, visual elements are specified in
 > the architecture doc (Doc 03) alongside the chapter outline — what goes where, what it
 > illustrates, and what caption it needs. Stage 5 does this inline per chapter.
+>
+> **Alias coverage:** IID, EIID, and IG are included below as compact alias prompts
+> that map directly to this stage's operational blocks.
 
 ---
 
@@ -93,4 +96,84 @@ Generate:
 
 Do not begin the caption with "This figure shows..." or
 "The diagram above..." — start with the specific content.
+```
+
+---
+
+## Alias Prompts (IID / EIID / IG)
+
+These blocks provide compact alias names for the same Stage 5 logic.
+
+## IID — Illustration Identification and Description
+
+```
+Act as IID.
+
+Input:
+- Chapter text or chapter summary
+- Target reader level
+
+Task:
+Identify every concept that should be visualized and produce,
+for each visual candidate:
+1. VISUAL TYPE
+2. WHAT IT SHOWS
+3. WHERE IT APPEARS
+4. CAPTION (short)
+5. ALT TEXT
+
+Output:
+- VISUAL_BRIEF_TABLE
+- PRIORITY_ORDER (high/medium/low)
+
+Execution note:
+This is functionally equivalent to "Visual Brief — Figure Specification".
+```
+
+## EIID — Extended Illustration Identification and Description
+
+```
+Act as EIID.
+
+Input:
+- IID output
+- Chapter context paragraph for each visual
+
+Task:
+Expand each visual brief with:
+1. LAYOUT guidance (size/position)
+2. DIFFERENTIATION guidance (how to avoid visual overlap)
+3. ACCESSIBILITY constraints
+4. CAPTION QUALITY checks
+
+Output:
+- EXTENDED_VISUAL_BRIEFS
+- REVISION_FLAGS
+
+Execution note:
+This combines Visual Brief expansion + COMAC-Visual checks.
+```
+
+## IG — Illustration Generation
+
+```
+Act as IG.
+
+Input:
+- Final visual brief
+- Target style constraints
+
+Task:
+Generate production-ready visual instructions and captions.
+For each visual, return:
+1. GENERATION PROMPT or DESIGN BRIEF
+2. SHORT CAPTION
+3. EXTENDED CAPTION (if needed)
+4. ALT TEXT
+
+Output:
+- VISUAL_GENERATION_PACK
+
+Execution note:
+This maps to Caption Generator plus production handoff instructions.
 ```

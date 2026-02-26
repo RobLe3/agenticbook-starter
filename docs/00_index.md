@@ -5,7 +5,7 @@
 
 **Project:** *First Light: A Beginner's Guide to Night Sky Photography*  
 **Flavor:** Short (22,000–28,000 words)  
-**Last Updated:** [Date]
+**Last Updated:** 2026-02-26
 
 > **Boundary note:** This starter repo is a reader-facing bootstrap companion.
 > It is not the production world model and is not canonical for manuscript claims.
@@ -35,11 +35,11 @@
 
 | # | Document | Purpose | Status |
 |---|----------|---------|--------|
-| 01 | `01_book_concept.md` | Book premise, positioning, target outcome | DRAFT |
-| 02 | `02_target_readers.md` | 2 reader profiles: Beginner + Enthusiast | DRAFT |
-| 03 | `03_book_architecture.md` | 7-chapter outline with lab exercises | DRAFT |
-| 04 | `04_key_concepts.md` | 20-term glossary | DRAFT |
-| 05 | `05_case_study.md` | Author background and topic evidence | DRAFT |
+| 01 | `01_book_concept.md` | Book premise, positioning, target outcome | COMPLETE |
+| 02 | `02_target_readers.md` | 2 reader profiles: Beginner + Enthusiast | COMPLETE |
+| 03 | `03_book_architecture.md` | 7-chapter outline with lab exercises | COMPLETE |
+| 04 | `04_key_concepts.md` | 20-term glossary | COMPLETE |
+| 05 | `05_case_study.md` | Author background and topic evidence | COMPLETE |
 
 ## Optional Operations Overlays
 
@@ -53,21 +53,21 @@
 
 ## Project Status
 
-**Current Phase:** Phase 1 — World Model Construction  
-**Active Work:** [What you're currently working on]  
-**Next Action:** [The one thing to do in the next session]
+**Current Phase:** Phase 2 — Draft Generation (example state)  
+**Active Work:** Drafting Introduction + Chapter 1 from Docs 01–05 while keeping Docs 06–08 as verification overlays.
+**Next Action:** Generate Chapter 1 draft and run AASS + DARE pass before continuing.
 
 **Word count progress:**
 - Target: 22,000–28,000 words
 - Drafted: 0 words
-- In progress: —
+- In progress: Introduction + Chapter 1 (planned)
 
 ---
 
 ## Graduation Triggers (Move to Full Methodology)
 
 Graduate from starter when any trigger is true:
-- Target exceeds ~40,000 words
+- Target exceeds 40,000 words
 - You are beyond Chapter 5-8 and drift is visible
 - Re-stating context each session is becoming expensive
 - Contradictions recur after simple fixes

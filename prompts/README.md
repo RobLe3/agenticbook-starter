@@ -16,12 +16,28 @@ Six-stage prompt library for the Static Prompt Bootstrap (Phase 0) — generatin
 | `stage-2-writing.md` | Writing | CHDD, CHFO, SUBREF | Generating chapter prose |
 | `stage-3-refinement.md` | Refinement | COREF, STRAL, COMAC, CAM | After 3+ chapters drafted — consistency and voice checks |
 | `stage-4-review.md` | Review + Scoring | AASS, DARE, IRIN | Quality scoring and targeted revision |
-| `stage-5-illustration.md` | Illustration | COMAC (visual), visual briefs | When chapters include figures, diagrams, or photo prompts |
-| `stage-6-supplemental.md` | Supplemental | Back matter, author bio, metadata | Final pre-publication content |
+| `stage-5-illustration.md` | Illustration | Visual Brief, COMAC-Visual, Caption Generator (+ IID/EIID/IG aliases) | When chapters include figures, diagrams, or photo prompts |
+| `stage-6-supplemental.md` | Supplemental | Author Bio, Colophon, Acknowledgements, Blurb, Metadata (+ RCC/GCC/CAC/SAR/RDC/RDX aliases) | Final pre-publication content |
+
+## Prompt Family Coverage (Alias Index)
+
+| Prompt family | Current starter location | Coverage mode |
+|---|---|---|
+| IID | `stage-5-illustration.md` | Explicit alias prompt |
+| EIID | `stage-5-illustration.md` | Explicit alias prompt |
+| IG | `stage-5-illustration.md` | Explicit alias prompt |
+| RCC | `stage-6-supplemental.md` | Explicit alias prompt |
+| GCC | `stage-6-supplemental.md` | Explicit alias prompt |
+| CAC | `stage-6-supplemental.md` | Explicit alias prompt |
+| SAR | `stage-6-supplemental.md` | Explicit alias prompt |
+| RDC | `stage-6-supplemental.md` | Explicit alias prompt |
+| RDX | `stage-6-supplemental.md` | Explicit alias prompt |
+
+These aliases keep compact shorthand names available while preserving explicit, beginner-friendly operational prompt names.
 
 ## Calibration reminder
 
-Apply **×0.85** to all AI quality scores from Stages 3–4. Apply **×0.80** to AASS scores specifically (static-prompt self-assessment inflates more than world-model-grounded review). Never treat a single scoring pass as a final determination.
+Apply **×0.85** to all AI quality scores from Stages 3–4. For AASS self-scores, always run a DARE or IRIN follow-up before accepting the score. Never treat a single scoring pass as a final determination.
 
 ## Source
 

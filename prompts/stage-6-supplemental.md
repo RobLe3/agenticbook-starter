@@ -11,6 +11,10 @@
 >
 > **Note:** Every prompt below has a slot for your real credentials. Do not let the AI
 > invent biographical details. Provide the facts; the AI shapes them into the right format.
+>
+> **Alias coverage:** RCC, GCC, CAC, SAR, RDC, and RDX are included below as
+> compact alias prompts. Stage 6 keeps practical operational prompts first, then
+> provides shorthand-name parity blocks.
 
 ---
 
@@ -154,4 +158,137 @@ Generate:
 
 Flag any keyword that is too competitive to rank for or too obscure
 to drive traffic — suggest alternatives.
+```
+
+---
+
+## Alias Prompts (RCC / GCC / CAC / SAR / RDC / RDX)
+
+These blocks provide compact alias names for the same Stage 6 logic.
+
+## RCC — Reference Chapter Creation
+
+```
+Act as RCC.
+
+Input:
+- Manuscript or chapter set
+- Citation/source notes
+
+Task:
+Create a reference chapter draft containing:
+1. Source list grouped by topic
+2. Citation format normalization
+3. Missing-source flags
+
+Output:
+- REFERENCE_CHAPTER_DRAFT
+- MISSING_SOURCE_LOG
+
+Execution note:
+Use when you need a dedicated references section beyond platform metadata.
+```
+
+## GCC — Glossary Chapter Creation
+
+```
+Act as GCC.
+
+Input:
+- Manuscript text
+- Existing keyword matrix
+
+Task:
+Generate a glossary chapter with:
+1. Canonical term definitions
+2. Reader-level plain-language definitions
+3. Cross-reference pointers to chapters
+
+Output:
+- GLOSSARY_CHAPTER_DRAFT
+- TERM_CONFLICT_REPORT
+```
+
+## CAC — Consistency and Accuracy Check
+
+```
+Act as CAC.
+
+Input:
+- Final manuscript draft
+- Canon terms and key claims
+
+Task:
+Check for:
+1. Term consistency drift
+2. Internal factual contradiction
+3. Unsupported or unverifiable claims
+
+Output:
+- CONSISTENCY_REPORT
+- ACCURACY_FIX_LIST
+```
+
+## SAR — Series Assessment and Recension
+
+```
+Act as SAR.
+
+Input:
+- Book N summary
+- Planned Book N+1 outline (optional)
+
+Task:
+Assess multi-book coherence:
+1. Arc continuity
+2. Promise carryover
+3. Open-loop closure status
+
+Output:
+- SERIES_CONTINUITY_REPORT
+- ARC_RISK_LOG
+
+Execution note:
+Optional for standalone books; use for multi-book programs.
+```
+
+## RDC — README Creation
+
+```
+Act as RDC.
+
+Input:
+- Project summary
+- Folder/file structure
+- Build/export instructions
+
+Task:
+Generate a project README that includes:
+1. Project purpose
+2. How to run/use this project
+3. Where outputs are generated
+4. Known caveats
+
+Output:
+- README_DRAFT
+```
+
+## RDX — Reader Demographic Check
+
+```
+Act as RDX.
+
+Input:
+- Manuscript sample
+- Target reader definition
+
+Task:
+Check demographic-fit and accessibility:
+1. Jargon fit for target audience
+2. Tone-fit and exclusion risks
+3. Assumed prior knowledge mismatches
+
+Output:
+- READER_FIT_REPORT
+- ADAPTATION_ACTIONS
 ```

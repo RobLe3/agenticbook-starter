@@ -12,7 +12,7 @@ Three reference cards condensing the full methodology to its minimum actionable 
 
 | File | Flavor | Scope |
 |------|--------|-------|
-| `short.md` | Short | 20–40K words, 4–6 docs, 15–20 sessions |
+| `short.md` | Short | <=40K words, 4–6 docs, 15–20 sessions |
 | `topic.md` | Topic | 50–80K words, 8–12 docs, 30–50 sessions |
 | `novel.md` | Novel | 80K+ words, 15–25+ docs, 65–95 sessions |
 

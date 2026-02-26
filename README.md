@@ -21,6 +21,13 @@ It is **not** the production world model for the Agentic Book manuscript.
 
 Do not treat starter file names or starter simplifications as production canon.
 
+## Quality Alignment
+
+- Flavor thresholds: Short <=40K, Topic 50-80K, Novel 80K+
+- Calibration: apply x0.85 to quality scores; never accept single-pass scoring
+- Verification depth: Short (lite), Topic (full), Novel (full + fiction-specific layers)
+- Boundary rule: starter repository is instructional; manuscript and production world model are canonical
+
 ---
 
 ## What's in This Repo
@@ -109,7 +116,7 @@ agenticbook-starter/
 │   └── 16_reader_simulation_blank.md
 ├── quickstart/                # Flavor quick-start cards (Appendix C)
 │   ├── README.md
-│   ├── short.md               # Short flavor: 20-40K words, 15-20 sessions
+│   ├── short.md               # Short flavor: <=40K words, 15-20 sessions
 │   ├── topic.md               # Topic flavor: 50-80K words, 30-50 sessions
 │   └── novel.md               # Novel flavor: 80K+ words, 65-95 sessions
 ├── prompts/                   # Static prompt library (Appendix D)
@@ -197,7 +204,7 @@ Browse the repository on GitHub while reading Chapters 3–15 of the book. When 
 
 Move to the full methodology when any of these are true:
 
-- Your target exceeds ~40,000 words
+- Your target exceeds 40,000 words
 - You are beyond Chapter 5–8 and context drift appears
 - Re-stating context takes longer than writing
 - Cross-chapter contradictions keep recurring
@@ -232,9 +239,13 @@ Move to the full methodology when any of these are true:
 
 ---
 
-## Version
+## Versioning
 
-This repository is described in *Agentic Book Writing: The Smart Way* at tag **v0.8.0** (February 2026). If the repository structure has changed since this tag, see the tagged release or the archived ZIP at the book's download page.
+This companion repository tracks the active release line of *Agentic Book Writing: The Smart Way*.
+
+- Use this repo's Releases page for stable snapshots.
+- If structure and manuscript references differ, follow the latest release notes in this repository.
+- For methodology canon, the manuscript and production world model remain authoritative.
 
 ---
 

@@ -29,7 +29,7 @@
 
 ## C. Quality Gate
 
-- [ ] All chapters scored using the 10-dimension rubric
+- [ ] All chapters scored using the 8-dimension starter rubric (or mapped to the full 10-dimension rubric)
 - [ ] Calibration correction applied (×0.85) — no chapter below 7.0 calibrated at release
 - [ ] Lowest-scoring chapters revised; remaining issues triaged and deferred intentionally
 - [ ] Reader simulation run (Short flavor: 2 archetypes — Beginner + Practitioner)

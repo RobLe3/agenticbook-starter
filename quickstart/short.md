@@ -1,6 +1,6 @@
 # Quick-Start Card: Short Flavor
 
-> 20–40K words · 4–6 world model documents · 15–20 sessions
+> <=40K words · 4–6 world model documents · 15–20 sessions
 
 No world model yet? The Static Prompt Library (`prompts/stage-1-concept.md`) provides a Phase 0 on-ramp — structured prompts that generate Short-flavor chapters without infrastructure. See `prompts/` for the full library.
 
@@ -11,7 +11,7 @@ No world model yet? The Static Prompt Library (`prompts/stage-1-concept.md`) pro
 
 WHEN TO USE:
   - Non-fiction guide, handbook, pamphlet, or novella
-  - Under 40,000 words
+  - Up to 40,000 words
   - 1-3 major entities (characters, topics, locations)
   - Linear structure (chapters are mostly independent)
   - Output: PDF for personal use or limited distribution
@@ -42,7 +42,7 @@ SESSION PROTOCOL:
   5. Log: chapter, date, calibrated score, next target
 
 VERIFICATION:
-  [ ] CFR pass (full text — it's under 40K, just do it)
+  [ ] CFR pass (full text — it's at or under 40K, just do it)
   [ ] Prose repetition check (one pass)
 
 QUALITY GATES:

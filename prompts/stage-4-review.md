@@ -2,9 +2,9 @@
 
 > Prompts: **AASS** (Quality Scoring) | **DARE** (Targeted Dimension Review) | **IRIN** (Integrated Review Inline) | Reader Simulation panels
 >
-> **Calibration warning:** Apply **×0.80** to all AASS scores (not ×0.85). Static-prompt
-> self-assessment inflates by ~20% without a world model anchoring the assessment.
-> Apply **×0.85** to world-model-grounded scoring passes.
+> **Calibration warning:** Apply **×0.85** to AASS scores. Static-prompt
+> self-assessment often overestimates quality without world-model anchoring, so
+> always run DARE or IRIN follow-up before accepting the calibrated score.
 > Never treat a single scoring pass as a final quality determination.
 >
 > **DO_DONT circuit breaker:** Run the DO_DONT check before starting another revision pass.
@@ -36,7 +36,7 @@ Dimensions (score each 1-10):
 For each dimension: [Score] / [Evidence] / [Biggest weakness]
 
 Raw weighted average: [X.X]
-Apply ×0.80 calibration to this score before use.
+Apply ×0.85 calibration to this score before use.
 
 Top 3 strengths:
 Top 3 weaknesses (priority order for revision):

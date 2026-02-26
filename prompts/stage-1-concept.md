@@ -23,7 +23,7 @@ You are helping me develop a book concept.
 Core idea: [YOUR IDEA IN 1-2 SENTENCES]
 Target reader: [WHO READS THIS AND WHY]
 Format: [non-fiction / fiction / guide / memoir]
-Approximate length: [SHORT 20-40K / TOPIC 50-80K / NOVEL 80K+]
+Approximate length: [SHORT <=40K / TOPIC 50-80K / NOVEL 80K+]
 
 Generate a structured book concept including:
 1. WORKING TITLE: 3-5 options with rationale

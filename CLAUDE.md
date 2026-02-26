@@ -89,7 +89,7 @@ Before declaring a chapter complete:
 ## Graduation Triggers (Switch to Full Methodology)
 
 If any trigger is true, stop extending this starter and move to the full methodology:
-- Target word count exceeds ~40,000 words
+- Target word count exceeds 40,000 words
 - Chapter count exceeds 10 with recurring drift between chapters
 - Context restatement overhead is high each session (you are re-explaining the same concepts)
 - Verification-lite no longer catches contradictions (especially around gear specifications)
