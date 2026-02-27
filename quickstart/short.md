@@ -65,7 +65,7 @@ DO_DONT CIRCUIT BREAKER (all flavors):
     Do notice boredom or resistance
 
 CALIBRATION RULE (all flavors):
-  Raw score x0.85 = calibrated score
+  Raw score ×0.85 = calibrated score
   If agent says 9.0 -> probably 7.5-8.0 (publication quality)
   If agent says 8.0 -> probably 6.8-7.5 (revision quality)
   Trust the lowest score from two passes

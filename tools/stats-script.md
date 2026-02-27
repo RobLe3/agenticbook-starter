@@ -1,6 +1,6 @@
 # Stats Script — Manuscript Measurement Reference
 
-> **Verified:** February 2026 (repo tag v0.6.0)
+> **Verified:** February 2026 (repo tag v1.0.0)
 >
 > The stats script measures what a quality-scoring pass cannot: word count trends,
 > key-term frequency, and chapter distribution. Run it before and after every revision pass.

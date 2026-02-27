@@ -21,6 +21,6 @@ Tool installation instructions go stale. A command that worked in 2025 may not w
 
 ## Verified date
 
-All guides in this folder: **verified February 2026** (repo tag `v0.6.0`).
+All guides in this folder: **verified February 2026** (repo tag `v1.0.0`).
 
 Check each file's header for the specific verification date. If you find a command that no longer works, open an issue at the companion repo with the specific command and error message.

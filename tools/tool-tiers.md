@@ -1,6 +1,6 @@
 # Tool Tiers — Current Reference
 
-> **Verified:** February 2026 (repo tag v0.6.0)
+> **Verified:** February 2026 (repo tag v1.0.0)
 > When this table diverges from a tool's current documentation, use the tool's documentation.
 
 ---

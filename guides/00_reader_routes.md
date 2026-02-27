@@ -30,7 +30,7 @@ Estimated time to first output: 60-120 minutes.
 4. Generate one chapter and run one review pass (`AASS` + `DARE`).
 5. Expand world model depth only when drift appears.
 
-## RED Route (Reference Mode)
+## REFERENCE Route (Targeted Lookup)
 
 Best for: targeted retrieval while reading or revising.
 
@@ -45,6 +45,6 @@ Use this when you need one artifact immediately:
 
 Switch routes whenever friction changes:
 
-- Too abstract -> move from RED/YELLOW to GREEN for structure.
+- Too abstract -> move from REFERENCE/YELLOW to GREEN for structure.
 - Too slow -> move from GREEN to YELLOW for momentum.
-- Need one exact answer -> move to RED, then return to your primary route.
+- Need one exact answer -> move to REFERENCE, then return to your primary route.

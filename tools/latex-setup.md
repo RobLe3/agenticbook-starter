@@ -1,6 +1,6 @@
 # XeLaTeX Setup — Novel-Flavor Build Guide
 
-> **Verified:** February 2026 (repo tag v0.6.0)
+> **Verified:** February 2026 (repo tag v1.0.0)
 > Novel-flavor projects use XeLaTeX as the manuscript compiler.
 > Short and Topic-flavor projects use Pandoc — see `markdown-setup.md`.
 

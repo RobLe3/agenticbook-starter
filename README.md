@@ -4,6 +4,7 @@
   <img src="assets/book-cover-small.png" alt="Agentic Book Writing cover" width="140" />
 </p>
 
+**v1.0.0 — companion to the First Edition of *Agentic Book Writing: The Smart Way***
 
 A reader-facing companion repository for *Agentic Book Writing: The Smart Way*.
 
@@ -23,7 +24,7 @@ If you only read one section, use this one.
 
 - `GREEN` (sequential mastery): start with routes, then first session, then flavor card, then example docs.
 - `YELLOW` (practitioner shortcut): choose flavor, copy blank templates, run generation and verification passes.
-- `RED` (reference mode): jump to the exact artifact you need by chapter or task.
+- `REFERENCE` (targeted lookup): jump to the exact artifact you need by chapter or task.
 
 Full route details: [`guides/00_reader_routes.md`](guides/00_reader_routes.md)
 
@@ -61,7 +62,7 @@ Use this when reading a chapter and you want the exact companion files:
 - Prompt library (Appendix D mirror): [`prompts/README.md`](prompts/README.md)
 - Tool guides (Appendix B mirror): [`tools/README.md`](tools/README.md)
 
-## Boundary and Canon
+## What This Repo Is (and Isn't)
 
 This starter kit is instructional.
 
@@ -72,7 +73,7 @@ For canonical methodology claims, use the manuscript repository and production w
 ## Quality Alignment
 
 - Flavor thresholds: Short `<=40K`, Topic `50-80K`, Novel `80K+`
-- Calibration: apply `x0.85`; never trust single-pass scoring
+- Calibration: apply `×0.85`; never trust single-pass scoring
 - Verification depth scales by flavor (Short lite, Topic full, Novel full + fiction-specific)
 - Graduate from starter when drift and context overhead are recurring
 

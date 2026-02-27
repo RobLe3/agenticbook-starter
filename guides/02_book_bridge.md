@@ -14,6 +14,9 @@ Use this as the direct bridge from manuscript chapter to starter companion artif
 | Appendix C | [`../quickstart/`](../quickstart/) |
 | Appendix D | [`../prompts/`](../prompts/) |
 | Appendix B | [`../tools/`](../tools/) |
+| Chapter 8 (Flavor Matrix) | [`../quickstart/`](../quickstart/README.md) — compare all three flavor cards |
+| Appendix A | Book-only (Nordlicht case study) — no starter equivalent |
+| Appendix E | This repository — [`../README.md`](../README.md) and [`../guides/01_first_session.md`](../guides/01_first_session.md) |
 
 ## Flavor Packs
 

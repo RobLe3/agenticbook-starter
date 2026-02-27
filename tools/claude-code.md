@@ -1,6 +1,6 @@
 # Claude Code — Tier 2 Setup Guide
 
-> **Verified:** February 2026 (repo tag v0.6.0)
+> **Verified:** February 2026 (repo tag v1.0.0)
 > Claude Code is the Tier 2 tool used throughout *Agentic Book Writing: The Smart Way*.
 
 ---

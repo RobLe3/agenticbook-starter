@@ -1,6 +1,6 @@
 # Pandoc Setup — Short and Topic Flavor Build Guide
 
-> **Verified:** February 2026 (repo tag v0.6.0)
+> **Verified:** February 2026 (repo tag v1.0.0)
 > Short and Topic-flavor projects use Markdown as the primary source format, compiled by Pandoc.
 > Novel-flavor projects use XeLaTeX — see `latex-setup.md`.
 

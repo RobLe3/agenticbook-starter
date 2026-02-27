@@ -1,6 +1,6 @@
 # Version Control — Git Setup for Book Projects
 
-> **Verified:** February 2026 (repo tag v0.6.0)
+> **Verified:** February 2026 (repo tag v1.0.0)
 
 ---
 
