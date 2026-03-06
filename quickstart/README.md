@@ -1,23 +1,26 @@
-# quickstart/ — Flavor Quick-Start Cards
+# quickstart/ — Quick-Start Cards
 
-Three reference cards condensing the full methodology to its minimum actionable form — one per project flavor. Use them at the start of a new project to confirm your setup and session protocol before building the world model.
+Reference cards condensing the full methodology to its minimum actionable form.
+Start with `00_before_you_begin.md` if you haven't chosen a flavor yet.
 
 ## When to use these
 
-- **Before world model construction:** Pick your flavor card. Read it in full. Identify which doc tier applies to you.
-- **During Chapter 8 (Flavor Matrix):** Compare all three cards side by side. The differences in doc count, session estimate, and verification depth are the scaling this chapter teaches.
-- **As a session reference:** Keep your matching card open during early sessions as a protocol reminder.
+- **No flavor yet:** Start with `00_before_you_begin.md` — choose your flavor, build the 4 universal starter documents, and run Lab 0 in 15 minutes.
+- **Flavor chosen:** Open the matching flavor card. Read it in full before building your world model.
+- **During Chapter 8 (Flavor Matrix):** Compare the three flavor cards side by side. The differences in doc count, session estimate, and verification depth are exactly what that chapter teaches.
+- **As a session reference:** Keep your matching flavor card open during early sessions as a protocol reminder.
 
 ## Contents
 
-| File | Flavor | Scope |
-|------|--------|-------|
-| `short.md` | Short | <=40K words, 4–6 docs, 15–20 sessions |
-| `topic.md` | Topic | 50–80K words, 8–12 docs, 30–50 sessions |
-| `novel.md` | Novel | 80K+ words, 15–25+ docs, 65–95 sessions |
+| File | Purpose | When to open |
+|------|---------|--------------|
+| `00_before_you_begin.md` | Pre-flavor entry card — flavor selection, 4 starter docs, Lab 0 | First |
+| `short.md` | Short-flavor protocol (<=40K, 4–6 docs, 15–20 sessions) | After choosing Short |
+| `topic.md` | Topic-flavor protocol (50–80K, 8–12 docs, 30–50 sessions) | After choosing Topic |
+| `novel.md` | Novel-flavor protocol (80K+, 15–25+ docs, 65–95 sessions) | After choosing Novel |
 
 ## Source
 
-These cards are the markdown version of Appendix C (Quick-Start Cards) from *Agentic Book Writing: The Smart Way*. The repo version is identical in content; the book version is formatted for print.
-
-If this file and the book diverge, the book takes precedence.
+The three flavor cards are the markdown version of Appendix C (Quick-Start Cards) from
+*Agentic Book Writing: The Smart Way*. The before-you-begin card adapts the book's
+pre-flavor on-boarding material. If any card and the book diverge, the book takes precedence.

@@ -1,10 +1,10 @@
 # agenticbook-starter
 
 <p align="left">
-  <img src="assets/book-cover-small.png" alt="Agentic Book Writing cover" width="140" />
+  <img src="assets/ABW_front_cover_small.png" alt="Agentic Book Writing: The Smart Way — cover" width="140" />
 </p>
 
-**v1.0.1 — companion to the First Edition of *Agentic Book Writing: The Smart Way***
+**v1.0.2 — companion to the First Edition of *Agentic Book Writing: The Smart Way***
 
 A reader-facing companion repository for *Agentic Book Writing: The Smart Way*.
 
@@ -29,6 +29,8 @@ If you only read one section, use this one.
 Full route details: [`guides/00_reader_routes.md`](guides/00_reader_routes.md)
 
 ## Choose Your Flavor
+
+Not sure which flavor fits? [`quickstart/00_before_you_begin.md`](quickstart/00_before_you_begin.md) — flavor selector, 4 universal starter documents, and Lab 0 in 15 minutes.
 
 - Short (`<=40K`, 4-6 docs, 15-20 sessions): [`quickstart/short.md`](quickstart/short.md)
 - Topic (`50-80K`, 8-12 docs, 30-50 sessions): [`quickstart/topic.md`](quickstart/topic.md)
