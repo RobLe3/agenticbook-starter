@@ -4,7 +4,7 @@
   <img src="assets/ABW_front_cover_small.png" alt="Agentic Book Writing: The Smart Way — cover" width="140" />
 </p>
 
-**v1.0.2 — companion to the First Edition of *Agentic Book Writing: The Smart Way***
+**v1.0.3 — companion to the First Edition of *Agentic Book Writing: The Smart Way***
 
 A reader-facing companion repository for *Agentic Book Writing: The Smart Way*.
 
