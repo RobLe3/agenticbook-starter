@@ -1,3 +1,10 @@
+<!--
+Book reference: This example supports Lab 5 (Chapter 5: Content Documents).
+If you completed Lab 5, compare your reader profiles to these.
+Differences are expected — this is a different project (Short-flavor, photography guide).
+Look for: profile specificity, goals vs. fears separation, 2–3 profile count discipline.
+-->
+
 # Doc 02: Target Readers
 
 > **Example world model doc for *Agentic Book Writing: The Smart Way* — Chapter 5.**

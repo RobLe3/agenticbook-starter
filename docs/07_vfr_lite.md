@@ -1,3 +1,10 @@
+<!--
+Book reference: This example supports Lab 7 (Chapter 7: Verification).
+If you completed Lab 7, compare your VFR to this one.
+Differences are expected — this is a different project (Short-flavor, photography guide).
+Look for: volatile claim identification, recheck trigger specificity, register scope discipline.
+-->
+
 # Doc 07: VFR Lite — First Light
 
 > **Example world model doc for *Agentic Book Writing: The Smart Way* — Chapter 7.**

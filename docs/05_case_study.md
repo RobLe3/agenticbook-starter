@@ -1,3 +1,10 @@
+<!--
+Book reference: This example supports Lab 5 (Chapter 5: Content Documents).
+If you completed Lab 5, compare your case study to this one.
+Differences are expected — this is a different project (Short-flavor, photography guide).
+Look for: evidence specificity, credential grounding, concrete outcomes over generic claims.
+-->
+
 # Doc 05: Author Case Study
 
 > **Example world model doc for *Agentic Book Writing: The Smart Way* — Chapter 5.**

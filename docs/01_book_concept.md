@@ -1,3 +1,10 @@
+<!--
+Book reference: This example supports Lab 5 (Chapter 5: Content Documents).
+If you completed Lab 5, compare your concept doc to this one.
+Differences are expected — this is a different project (Short-flavor, photography guide).
+Look for: premise clarity, problem statement specificity, scope guardrails, transformation test.
+-->
+
 # Doc 01: Book Concept
 
 > **Example world model doc for *Agentic Book Writing: The Smart Way* — Chapter 5.**

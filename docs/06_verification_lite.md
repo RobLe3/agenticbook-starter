@@ -1,3 +1,10 @@
+<!--
+Book reference: This example supports Lab 7 (Chapter 7: Verification).
+If you completed Lab 7, compare your verification protocol to this one.
+Differences are expected — this is a different project (Short-flavor, photography guide).
+Look for: CFR critical invariant selection, when-to-run cadence, release decision criteria.
+-->
+
 # Doc 06: Verification Lite — First Light
 
 > **Example world model doc for *Agentic Book Writing: The Smart Way* — Chapter 7.**

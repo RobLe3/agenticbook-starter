@@ -1,3 +1,10 @@
+<!--
+Book reference: This example supports Lab 3 (Chapter 3: The World Model Concept).
+If you completed Lab 3, compare your index to this one.
+Differences are expected — this is a different project (Short-flavor, photography guide).
+Look for: navigation structure, doc-to-purpose mapping, graduation triggers.
+-->
+
 # First Light — World Model Index
 
 > **Example world model for *Agentic Book Writing: The Smart Way*.**

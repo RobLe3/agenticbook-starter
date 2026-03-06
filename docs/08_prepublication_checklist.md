@@ -1,3 +1,10 @@
+<!--
+Book reference: This example supports Lab 15 (Chapter 15: Knowing When You're Done).
+If you completed Lab 15, compare your pre-publication checklist to this one.
+Differences are expected — this is a different project (Short-flavor, photography guide).
+Look for: gate completeness, signal specificity, GREEN/YELLOW/RED decision criteria.
+-->
+
 # Doc 08: Pre-Publication Checklist — First Light
 
 > **Example world model doc for *Agentic Book Writing: The Smart Way* — Chapter 15.**

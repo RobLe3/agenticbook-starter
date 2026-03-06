@@ -1,3 +1,10 @@
+<!--
+Book reference: This example supports Lab 5 (Chapter 5: Content Documents).
+If you completed Lab 5, compare your glossary to this one.
+Differences are expected — this is a different project (Short-flavor, photography guide).
+Look for: term count discipline (15–25), definition precision, agent-usability of each entry.
+-->
+
 # Doc 04: Key Concepts (Glossary)
 
 > **Example world model doc for *Agentic Book Writing: The Smart Way* — Chapter 5.**
