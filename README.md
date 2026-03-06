@@ -4,7 +4,7 @@
   <img src="assets/book-cover-small.png" alt="Agentic Book Writing cover" width="140" />
 </p>
 
-**v1.0.0 — companion to the First Edition of *Agentic Book Writing: The Smart Way***
+**v1.0.1 — companion to the First Edition of *Agentic Book Writing: The Smart Way***
 
 A reader-facing companion repository for *Agentic Book Writing: The Smart Way*.
 
@@ -24,7 +24,7 @@ If you only read one section, use this one.
 
 - `GREEN` (sequential mastery): start with routes, then first session, then flavor card, then example docs.
 - `YELLOW` (practitioner shortcut): choose flavor, copy blank templates, run generation and verification passes.
-- `REFERENCE` (targeted lookup): jump to the exact artifact you need by chapter or task.
+- `FAST` (targeted lookup): jump to the exact artifact you need by chapter or task. This is the Starter Kit lane from the book.
 
 Full route details: [`guides/00_reader_routes.md`](guides/00_reader_routes.md)
 
