@@ -3,6 +3,8 @@
 <!-- Flavor comparison: see novel-example/00_index.md for Short/Topic/Novel contrast table -->
 # Doc 08: Quality Scoring — The Glass Meridian
 
+> **Book Lab reference — Lab 8 (Chapter 10):** If you completed Lab 8, compare your quality scoring rubric to this example — look for: 16 dimensions (vs Topic's 12 vs Short's 8), the four fiction-specific dimensions (Dual-POV Consistency, Free Indirect Discourse, Chronological Integrity, Canon Compliance).
+
 **Novel-flavor | 16 dimensions | Calibration: ×0.85**
 
 ---

@@ -4,6 +4,8 @@
 
 # Character Psychology Guide — The Glass Meridian
 
+> **Book Lab reference — Lab 7 (Chapter 9):** If you completed Lab 7, compare your psychology guide to this example — look for: wound/desire/fear structure, behavioral prediction rules, Novel-flavor requirement (Short and Topic flavors do not require this doc).
+
 **Project:** The Glass Meridian
 **Flavor:** Novel (82,000–88,000 words)
 

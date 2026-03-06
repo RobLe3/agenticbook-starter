@@ -7,6 +7,8 @@ levels, the contrast between 2 personas (Short-flavor) vs. 4 (Topic-flavor).
 
 # Target Readers — Sourdough at Home
 
+> **Book Lab reference — Lab 2 (Chapter 5):** If you completed Lab 2, compare your reader personas to these — look for: the contrast between 2 personas (Short-flavor) and 4 personas (Topic-flavor), specificity of failure modes, jargon tolerance levels.
+
 **Project:** Sourdough at Home: A Practical Guide to Wild Yeast Baking
 **Flavor:** Topic (55,000–65,000 words)
 

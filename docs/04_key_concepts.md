@@ -12,6 +12,7 @@ Look for: term count discipline (15–25), definition precision, agent-usability
 > fewer leaves your agent guessing at definitions.
 > Include EVERY term your agent might use without a clear shared definition.
 > Format: term, plain-language definition, first use in book (chapter).
+> *Book Lab → Lab 5 (Chapter 5). If you completed Lab 5, compare your glossary to this one — look for: term count (15–25), definition precision, agent-usability of each entry.*
 
 ---
 

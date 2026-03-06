@@ -3,6 +3,8 @@
 <!-- Flavor comparison: see novel-example/00_index.md for Short/Topic/Novel contrast table -->
 # Doc 14: Verification Protocol (QVP) — The Glass Meridian
 
+> **Book Lab reference — Lab 7 (Chapter 7):** If you completed Lab 7, compare your verification protocol to this example — look for: 14-layer structure (vs Topic's 8 vs Short's 3), per-five-chapter batch sweep vs per-chapter sweep, fiction-specific layers (timeline rhyme, FID audit, pacing sweep).
+
 **14-Layer Quality Verification Protocol | Novel-flavor fiction**
 
 ---

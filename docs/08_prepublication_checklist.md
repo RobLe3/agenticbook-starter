@@ -14,6 +14,7 @@ Look for: gate completeness, signal specificity, GREEN/YELLOW/RED decision crite
 > **Note for agent:** Do not declare the project "done" without working through this checklist.
 > Treat YELLOW as a soft hold — discuss with the author whether to release with caveats.
 > Treat RED as a hard hold — no release until blocking items are resolved.
+> *Book Lab → Lab 15 (Chapter 15). If you completed Lab 15, compare your pre-publication checklist to this one — look for: gate completeness, signal specificity, GREEN/YELLOW/RED decision criteria.*
 
 ---
 

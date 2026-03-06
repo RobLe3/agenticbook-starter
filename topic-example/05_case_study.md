@@ -7,6 +7,8 @@ milestone structure.
 
 # Case Study — Sourdough at Home
 
+> **Book Lab reference — Lab 5 (Chapter 5):** If you completed Lab 5, compare your case study to this example — look for: credential specificity, documented evidence over generic claims, milestone structure.
+
 **Project:** Sourdough at Home: A Practical Guide to Wild Yeast Baking
 **Flavor:** Topic (55,000–65,000 words)
 

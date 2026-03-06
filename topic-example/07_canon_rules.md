@@ -8,6 +8,8 @@ Note: Short-flavor does not have a dedicated fact registry. This is a Topic-flav
 
 # Canon Rules — Sourdough at Home
 
+> **Book Lab reference — Lab 7 (Chapter 7):** If you completed Lab 7, compare your fact registry to this example — look for: claim structure, source type, canonical value precision, recheck trigger format.
+
 **Project:** Sourdough at Home: A Practical Guide to Wild Yeast Baking
 **Flavor:** Topic (55,000–65,000 words)
 **Registry type:** CFR — Claim Fact Registry (technical claims that must be consistent throughout the manuscript)

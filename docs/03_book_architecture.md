@@ -12,6 +12,7 @@ Look for: intent-per-chapter specificity, chapter count discipline, lab output d
 > Each chapter entry must specify INTENT (what the reader believes after reading)
 > and OUTPUT (what the reader can produce after the lab).
 > Your agent uses intent statements to stay on-topic during generation.
+> *Book Lab → Lab 5 (Chapter 5). If you completed Lab 5, compare your chapter outline to this one — look for: intent-per-chapter specificity, chapter count discipline, lab output definition.*
 
 ---
 

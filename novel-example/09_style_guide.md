@@ -3,6 +3,8 @@
 <!-- Flavor comparison: see novel-example/00_index.md for Short/Topic/Novel contrast table -->
 # Doc 09: Style Guide — The Glass Meridian
 
+> **Book Lab reference — Lab 6 (Chapter 9):** If you completed Lab 6, compare your style guide to this example — look for: timeline-specific prose register differences, free indirect discourse rules, literary fiction pacing constraints.
+
 **Novel-flavor | Literary mystery / historical thriller | Dual timeline**
 
 ---

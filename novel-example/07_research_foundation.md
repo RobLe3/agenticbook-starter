@@ -4,6 +4,8 @@
 
 # Research Foundation — The Glass Meridian
 
+> **Book Lab reference — Lab 9 (Chapter 13):** If you completed Lab 9, compare your research foundation to this example — look for: 3-tier claim structure (known-reliable / approximate / uncertain), fiction-specific volatile facts category (plot-dependent claims).
+
 **Project:** The Glass Meridian
 **Flavor:** Novel (82,000–88,000 words)
 

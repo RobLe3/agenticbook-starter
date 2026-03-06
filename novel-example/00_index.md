@@ -4,6 +4,8 @@
 
 # The Glass Meridian — World Model Index
 
+> **Book Lab reference:** This Novel-flavor index supports multiple Labs (Chapters 3–8). If you completed any of those Labs, compare your world model structure to this example — look for: doc count (17 vs Topic's 10 vs Short's 9), session start checklist, dual-timeline management approach.
+
 **Project:** The Glass Meridian
 **Flavor:** Novel (82,000–88,000 words)
 **Genre:** Literary mystery / historical thriller

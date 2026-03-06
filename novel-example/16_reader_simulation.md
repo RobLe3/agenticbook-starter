@@ -3,6 +3,8 @@
 <!-- Flavor comparison: see novel-example/00_index.md for Short/Topic/Novel contrast table -->
 # Doc 16: Reader Simulation — The Glass Meridian
 
+> **Book Lab reference — Lab 12 (Chapter 12):** If you completed Lab 12, compare your reader simulation to this example — look for: fiction archetypes (inhabitation vs utility framing), 3-of-4 gate threshold, Plausibility-Focused vs Genre-Literate archetype distinctions.
+
 **4 archetypes | Fiction reader simulation | Novel-flavor**
 
 ---

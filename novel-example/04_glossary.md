@@ -4,6 +4,8 @@
 
 # Domain Glossary — The Glass Meridian
 
+> **Book Lab reference — Lab 3 (Chapter 6):** If you completed Lab 3, compare your domain glossary to this example — look for: 3-category structure (vs flat list), scene-specific activation notes, term count (30 across 3 categories vs Short's ~20).
+
 **Project:** The Glass Meridian
 **Flavor:** Novel (82,000–88,000 words)
 **Terms:** 30 across 3 categories

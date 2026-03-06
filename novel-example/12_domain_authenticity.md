@@ -3,6 +3,8 @@
 <!-- Flavor comparison: see novel-example/00_index.md for Short/Topic/Novel contrast table -->
 # Doc 12: Domain Authenticity — The Glass Meridian
 
+> **Book Lab reference — Lab 7 (Chapter 7):** If you completed Lab 7, compare your domain authenticity protocol to this example — look for: "what does NOT happen" sections (preventing TV-accuracy errors), domain-specific fixed procedures, fiction-specific accuracy threshold.
+
 **Marine archaeology + Colonial West African history | Accuracy protocol**
 
 ---

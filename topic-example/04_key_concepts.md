@@ -7,6 +7,8 @@ depth, confusion-risk notes, category grouping.
 
 # Key Concepts — Sourdough at Home
 
+> **Book Lab reference — Lab 4 (Chapter 5):** If you completed Lab 4, compare your glossary to this example — look for: term count (28 vs Short-flavor's 18), definition depth, confusion-risk notes, category grouping.
+
 **Project:** Sourdough at Home: A Practical Guide to Wild Yeast Baking
 **Flavor:** Topic (55,000–65,000 words)
 **Term count:** 28 (Topic-flavor target: 20–35 terms)

@@ -7,6 +7,8 @@ Look for: structure match, doc count, terminology alignment, depth contrast with
 
 # World Model Index — Sourdough at Home
 
+> **Book Lab reference:** This Topic-flavor index supports multiple Labs (Chapters 3–8). If you completed any of those Labs, compare your world model structure to this example — look for: doc count (10 vs Short's 9), session checklist presence, depth contrast with Short-flavor.
+
 **Project:** Sourdough at Home: A Practical Guide to Wild Yeast Baking
 **Flavor:** Topic (55,000–65,000 words)
 **Phase:** Phase 3 — Manuscript Generation (world model complete)

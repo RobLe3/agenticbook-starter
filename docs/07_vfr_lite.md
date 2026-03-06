@@ -14,6 +14,7 @@ Look for: volatile claim identification, recheck trigger specificity, register s
 > **Note for agent:** Do not assert any volatile claim without a `[VERIFY]` tag unless the
 > row below shows STATUS: CURRENT. Prefer ranges and qualified wording over brittle precision
 > (e.g., "around $200–400 used" rather than "$299").
+> *Book Lab → Lab 7 (Chapter 7). If you completed Lab 7, compare your VFR to this one — look for: volatile claim identification, recheck trigger specificity, register scope discipline.*
 
 ---
 

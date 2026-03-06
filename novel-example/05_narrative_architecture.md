@@ -4,6 +4,8 @@
 
 # Narrative Architecture — The Glass Meridian
 
+> **Book Lab reference — Lab 5 (Chapter 8):** If you completed Lab 5, compare your narrative architecture to this example — look for: chapter intent as epistemic shift (not plot summary), dual-timeline chapter structure, Prologue/Epilogue handling.
+
 **Project:** The Glass Meridian
 **Flavor:** Novel (82,000–88,000 words)
 **Structure:** Prologue + 28 chapters + Epilogue (30 total entries)

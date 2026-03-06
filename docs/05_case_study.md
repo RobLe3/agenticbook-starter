@@ -15,6 +15,7 @@ Look for: evidence specificity, credential grounding, concrete outcomes over gen
 > useless. With it, your agent writes "the author's first Milky Way photo, taken at Bortle 6
 > from a suburban parking lot, used a 30-second exposure at ISO 3200 with a kit lens" —
 > which is specific enough to teach.
+> *Book Lab → Lab 5 (Chapter 5). If you completed Lab 5, compare your case study to this one — look for: evidence specificity, credential grounding, concrete outcomes over generic claims.*
 
 ---
 

@@ -7,6 +7,8 @@ grouped by category with recheck triggers) and the Short-flavor VFR-lite (6 clai
 
 # Volatile Facts Register — Sourdough at Home
 
+> **Book Lab reference — Lab 9 (Chapter 7):** If you completed Lab 9, compare your VFR to this example — look for: full VFR structure (15+ claims, grouped by category with recheck triggers) vs Short-flavor VFR-lite (6 claims, simpler format).
+
 **Project:** Sourdough at Home: A Practical Guide to Wild Yeast Baking
 **Flavor:** Topic (55,000–65,000 words)
 

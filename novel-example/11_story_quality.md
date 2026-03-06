@@ -3,6 +3,8 @@
 <!-- Flavor comparison: see novel-example/00_index.md for Short/Topic/Novel contrast table -->
 # Doc 11: Story Quality — The Glass Meridian
 
+> **Book Lab reference — Lab 11 (Chapter 10):** If you completed Lab 11, compare your story quality framework to this example — look for: craft vs engagement distinction (why a high-scoring chapter can still fail), 3-pillar structure (Plausibility, Human Impact, Momentum).
+
 **3-Pillar Engagement Assessment Framework | Novel-flavor fiction**
 
 ---

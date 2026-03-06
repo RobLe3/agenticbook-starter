@@ -7,6 +7,8 @@ the integration of CFR with verification, and the prose quality gate layer.
 
 # Verification Protocol — Sourdough at Home
 
+> **Book Lab reference — Lab 8 (Chapter 7):** If you completed Lab 8, compare your verification protocol to this example — look for: the 8-layer structure (vs Short-flavor's 3 layers), integration of CFR with verification, prose quality gate layer.
+
 **Project:** Sourdough at Home: A Practical Guide to Wild Yeast Baking
 **Flavor:** Topic (55,000–65,000 words)
 **Verification depth:** 8-layer full QVP (vs. 3-layer lite for Short-flavor)

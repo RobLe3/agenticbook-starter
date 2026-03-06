@@ -3,6 +3,8 @@
 <!-- Flavor comparison: see novel-example/00_index.md for Short/Topic/Novel contrast table -->
 # Doc 15: Volatile Facts Register (VFR) — The Glass Meridian
 
+> **Book Lab reference — Lab 7 (Chapter 7):** If you completed Lab 7, compare your VFR to this example — look for: plot-dependent claims (Category 4 — unique to fiction), internal consistency recheck triggers, 20-entry depth vs Short-flavor's 6-entry VFR-lite.
+
 **20 entries | 4 categories | Novel-flavor fiction**
 
 ---

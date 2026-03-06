@@ -4,6 +4,8 @@
 
 # The Glass Meridian — Premise & Concept
 
+> **Book Lab reference — Labs 1 and 5 (Chapters 1 and 5):** If you completed Lab 1 or Lab 5, compare your premise doc to this example — look for: fiction-specific premise structure vs non-fiction concept doc, dual-timeline setup, scope constraints defined upfront.
+
 **Project:** The Glass Meridian
 **Flavor:** Novel (82,000–88,000 words)
 **Genre:** Literary mystery / historical thriller

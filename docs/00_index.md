@@ -9,6 +9,7 @@ Look for: navigation structure, doc-to-purpose mapping, graduation triggers.
 
 > **Example world model for *Agentic Book Writing: The Smart Way*.**
 > This index demonstrates the navigation pattern from Chapter 3.
+> *Book Lab → Lab 3 (Chapter 3). If you completed Lab 3, compare your world model index to this one — look for: navigation structure, doc-to-purpose mapping, graduation triggers.*
 
 **Project:** *First Light: A Beginner's Guide to Night Sky Photography*  
 **Flavor:** Short (22,000–28,000 words)  

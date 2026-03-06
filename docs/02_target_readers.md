@@ -11,6 +11,7 @@ Look for: profile specificity, goals vs. fears separation, 2–3 profile count d
 > For Short flavor, 2–3 reader profiles is enough. More creates contradictory constraints
 > that make the manuscript harder to write.
 > Your agent uses these profiles when making voice, vocabulary, and example decisions.
+> *Book Lab → Lab 5 (Chapter 5). If you completed Lab 5, compare your reader profiles to these — look for: profile specificity, goals vs. fears separation, 2–3 profile count discipline.*
 
 ---
 

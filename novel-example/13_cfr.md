@@ -3,6 +3,8 @@
 <!-- Flavor comparison: see novel-example/00_index.md for Short/Topic/Novel contrast table -->
 # Doc 13: Character/Claim Fact Registry (CFR) — The Glass Meridian
 
+> **Book Lab reference — Lab 7 (Chapter 7):** If you completed Lab 7, compare your CFR to this example — look for: 50-entry depth (vs Topic's ~20 vs Short's CFR-lite), separation of Character Facts from Historical Claims, drift vs catastrophic failure mode distinction.
+
 **50 entries | 20 Character Facts + 30 Historical/Domain Claims**
 
 ---

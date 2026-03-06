@@ -13,6 +13,7 @@ Look for: CFR critical invariant selection, when-to-run cadence, release decisio
 >
 > **Note for agent:** Run a CFR-Lite pass after every two chapters. Run a full Verification pass
 > before each revision cycle. Run the complete starter pass before release.
+> *Book Lab → Lab 7 (Chapter 7). If you completed Lab 7, compare your verification doc to this one — look for: CFR critical invariant selection, when-to-run cadence, release decision criteria.*
 
 ---
 

@@ -4,6 +4,8 @@
 
 # Location Register — The Glass Meridian
 
+> **Book Lab reference — Lab 4 (Chapter 7):** If you completed Lab 4, compare your location register to this example — look for: sensory anchor specificity (one unique detail per location vs generic physical description), scene activation notes.
+
 **Project:** The Glass Meridian
 **Flavor:** Novel (82,000–88,000 words)
 

@@ -3,6 +3,8 @@
 <!-- Flavor comparison: see novel-example/00_index.md for Short/Topic/Novel contrast table -->
 # Doc 10: Canon Rules — The Glass Meridian
 
+> **Book Lab reference — Lab 7 (Chapter 7):** If you completed Lab 7, compare your canon rules to this example — look for: 3-tier hierarchy (Inviolable/Alterable/Emergent), load-bearing facts identification, Novel-flavor depth vs Short-flavor's CFR-lite.
+
 **Version 1.0 | Established: World Model Phase | Novel-flavor**
 
 ---

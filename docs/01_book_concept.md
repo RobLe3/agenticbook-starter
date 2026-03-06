@@ -10,6 +10,7 @@ Look for: premise clarity, problem statement specificity, scope guardrails, tran
 > **Example world model doc for *Agentic Book Writing: The Smart Way* — Chapter 5.**
 > This document answers: What is this book? Who is it for? Why does it need to exist?
 > Your agent embeds this in every chapter-generation prompt to anchor the work.
+> *Book Lab → Lab 5 (Chapter 5). If you completed Lab 5, compare your concept doc to this one — look for: premise clarity, problem statement specificity, scope guardrails, transformation test.*
 
 ---
 

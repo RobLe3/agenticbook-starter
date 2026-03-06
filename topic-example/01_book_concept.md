@@ -7,6 +7,8 @@ scope guardrail precision.
 
 # Book Concept — Sourdough at Home
 
+> **Book Lab reference — Lab 2 (Chapter 5):** If you completed Lab 2, compare your concept doc to this example — look for: problem framing, unique value specificity, scope guardrail precision.
+
 **Project:** Sourdough at Home: A Practical Guide to Wild Yeast Baking
 **Flavor:** Topic (55,000–65,000 words)
 **Genre:** Non-fiction how-to / practical guide

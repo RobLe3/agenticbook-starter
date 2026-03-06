@@ -7,6 +7,8 @@ cumulative Lab structure, session plan detail.
 
 # Book Architecture — Sourdough at Home
 
+> **Book Lab reference — Lab 3 (Chapter 5):** If you completed Lab 3, compare your chapter outline to this example — look for: chapter intent specificity, word count per chapter, cumulative Lab structure, session plan detail.
+
 **Project:** Sourdough at Home: A Practical Guide to Wild Yeast Baking
 **Flavor:** Topic (55,000–65,000 words)
 **Structure:** 14 chapters + optional appendices

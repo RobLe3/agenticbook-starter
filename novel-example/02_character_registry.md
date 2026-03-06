@@ -4,6 +4,8 @@
 
 # Character Registry — The Glass Meridian
 
+> **Book Lab reference — Lab 4 (Chapter 7):** If you completed Lab 4, compare your character registry to this example — look for: wound/desire/fear structure, voice register calibration with sample sentences, internal contradiction specificity.
+
 **Project:** The Glass Meridian
 **Flavor:** Novel (82,000–88,000 words)
 

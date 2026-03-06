@@ -8,6 +8,8 @@ Note: Short-flavor does not have a style guide doc. This is a Topic-flavor requi
 
 # Style Guide — Sourdough at Home
 
+> **Book Lab reference — Lab 6 (Chapter 6):** If you completed Lab 6, compare your style guide to this example — look for: voice specificity, jargon policy precision, structure rules. Note: Short-flavor does not have a style guide; this is a Topic-flavor addition.
+
 **Project:** Sourdough at Home: A Practical Guide to Wild Yeast Baking
 **Flavor:** Topic (55,000–65,000 words)
 
